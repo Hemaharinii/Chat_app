@@ -10,9 +10,9 @@ DEPLOYMENT:
 Terminal 1(db connection)
 -> Start mongodb using the command "mongo shell"
 -> To get Connected with database use command "use db"
-Terminal 2(backend)
+Terminal 2(run server)
 -> Start server using the command "node server.js"
-Terminal 3(frontend)
+Terminal 3(run client)
 -> install npm 
 -> yarn start
 
